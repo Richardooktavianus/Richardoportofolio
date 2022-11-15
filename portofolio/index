@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Web Portofolio</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+    <!-- My CSS -->
+    <link rel="stylesheet" href="style.css" />
+
+    
+    <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: DevFolio - v4.8.1
+  * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+  </head>
+  <body>
+  
+<!-- ======= Header ======= -->
+<header id="header" class="fixed-top">
+  <div class="container d-flex align-items-center justify-content-between">
+
+    <h1 class="logo"><a href="index.html">Richardo Oktavianus Website</a></h1>
+    <!-- Uncomment below if you prefer to use an image logo -->
+    <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+    <nav id="navbar" class="navbar">
+      <ul>
+        <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+        <li><a class="nav-link scrollto" href="#about">Profile</a></li>
+        <li><a class="nav-link scrollto" href="#projects">Portofolio</a></li>
+        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+      </ul>
+      <i class="bi bi-list mobile-nav-toggle"></i>
+    </nav><!-- .navbar -->
+
+  </div>
+</header><!-- End Header -->
+
+      <!-- ======= Hero Section ======= -->
+  <div id="hero" class="hero route bg-image" style="background-image: url(img/wallpaper.PNG)">
+  <div class="overlay-itro"></div>
+  <div class="hero-content display-table">
+    <div class="table-cell">
+      <div class="container">
+        <!--<p class="display-6 color-d">Hello, world!</p>-->
+        <h1 class="hero-title mb-4">Richardo Oktavianus</h1>
+        <p class="hero-subtitle"><span class="typed" data-typed-items="Mahasiswa,Web Development(Beginner),Programmer(Newbie)"></span></p>
+        <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Hero Section -->
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about-mf sect-pt4 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="box-shadow-full">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class="col-sm-6 col-md-5">
+                      <div class="about-img">
+                        <img src="img/Profile.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                      </div>
+                    </div>
+                    <div class="col-sm-6 col-md-7">
+                      <div class="about-info">
+                        <p><span class="title-s">Name: </span> <span>Richardo Otavianus</span></p>
+                        <p><span class="title-s">Profile: </span> <span>Mahasiswa</span></p>
+                        <p><span class="title-s">Email: </span> <span></span>richardooktavianus4@gmail.com</p>
+                        <p><span class="title-s">Phone: </span> <span>+62 857-2499-5633</span></p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="skill-mf">
+                    <p class="title-s">Skill</p>
+                    <span>HTML</span> <span class="pull-right">60%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>CSS3</span> <span class="pull-right">45%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 45%" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>PHP</span> <span class="pull-right">Skill Locked</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>JAVASCRIPT</span> <span class="pull-right">Skill Locked</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="about-me pt-4 pt-md-0">
+                    <div class="title-box-2">
+                      <h5 class="title-left">
+                        About me
+                      </h5>
+                    </div>
+                    <p class="lead">
+                      Nama Saya Richardo Oktavianus, Saya lahir di Bandung Pada Tanggal 24 Oktober 2003
+                    </p>
+                    <p class="lead">
+                      Saya anak Pertama dari 3 Bersudara dan pernah bersekolah di SDN Sukaluyu 1 Bandung, SMP Santa Maria Bandung
+                      , dan SMA NEGERI 14 Bandung
+                    </p>
+                    <p class="lead">
+                      Sekarang saya sedang Berkuliah di STMIK LIKMI Bandung
+                    </p>
+                    <hr>
+                    <br>
+                    <br>
+                    <div class="experience-mf modal-fullscreen-lg-down">
+                      <p class="title-s">Experience</p>
+                      <span>Pengibaran Bendera 17 Agustus 2019 di Pussenif</span> <span class="pull-right"></span>
+                      <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                      <span>Pengibaran 10 November 2019 Balai Kota</span> <span class="pull-right"></span>
+                      <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                      <span>Panitia OSIS MPLS 2019</span> <span class="pull-right"></span>
+                      <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                      <span>Panitia OSIS Bulan Bahasa 2018</span> <span class="pull-right"></span>
+                      <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#182747" fill-opacity="1" d="M0,256L48,261.3C96,267,192,277,288,240C384,203,480,117,576,112C672,107,768,181,864,208C960,235,1056,213,1152,197.3C1248,181,1344,171,1392,165.3L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+    </section><!-- End About Section -->
+
+      <!-- Projects -->
+      <section id="projects">
+        <div class="container">
+            <div class="row text-center mb-3">
+                <div class="col">
+                    <h2 style="color: #EEE3CB;">Portofolio</h2>
+                </div>
+            </div>
+          <div class="portofolio">
+            <table width="100%" border="0">
+              <tbody>
+                <tr>
+                  <td style="color: #EEE3CB;">Video Tutorial Membuat Web Portofolio Menggunakan Bootstrap</td>
+                  <td><iframe width="560" height="315" src="https://www.youtube.com/embed/71a2zeC71gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+                </tr>
+                <tr>
+                  <td><iframe width="560" height="315" src="https://www.youtube.com/embed/LkR-9Z1sle8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+                  <td style="color: #EEE3CB;">Video Tutorial Belajar HTML </td>
+                </tr>
+                <tr>
+                  <td style="color: #EEE3CB;">Gambar Ilustrasi tentang langit alam yang sangat misterius dan masih banyak hal hal yang belum diketahhui oleh para ahli dan kita </td>
+                  <td><img src="img/projects/1.jpg" width="640" height="608" alt=""/></td>
+                </tr>
+                <tr>
+                  <td><img src="img/projects/3.jpg" width="346" height="500" alt=""/></td>
+                  <td style="color: #EEE3CB;"><p style="color: #EEE3CB;">Gambar Pemandangan Alam yang berada di wilayah indonesia tentang alam pegunungan yang </p>
+                    sangat indah juga bagus dalam mengambil gambar tersebut</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+              </tbody>
+            </table>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#25316D" fill-opacity="1" d="M0,128L26.7,154.7C53.3,181,107,235,160,261.3C213.3,288,267,288,320,245.3C373.3,203,427,117,480,117.3C533.3,117,587,203,640,208C693.3,213,747,139,800,128C853.3,117,907,171,960,202.7C1013.3,235,1067,245,1120,229.3C1173.3,213,1227,171,1280,160C1333.3,149,1387,171,1413,181.3L1440,192L1440,320L1413.3,320C1386.7,320,1333,320,1280,320C1226.7,320,1173,320,1120,320C1066.7,320,1013,320,960,320C906.7,320,853,320,800,320C746.7,320,693,320,640,320C586.7,320,533,320,480,320C426.7,320,373,320,320,320C266.7,320,213,320,160,320C106.7,320,53,320,27,320L0,320Z"></path></svg>
+      </section>
+      <!-- Akhir Projects -->
+
+      <!-- Contact -->
+      <section id="contact">
+        <div class="container">
+            <div class="row text-center mb-3">
+                <div class="col">
+                    <h2 style="color: #EEE3CB;">Contact Me</h2>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+              <div class="col-md-6">
+                <form>
+                  <div class="mb-3">
+                    <label for="Name" class="form-label">Nama Lengkap</label>
+                    <input type="text" class="form-control" id="name" aria-describedby="name">
+                  </div>
+                  <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="email">
+                  </div>
+                  <div class="mb-3">
+                    <label for="pesan" class="form-label">Pesan</label>
+                    <textarea class="form-control" id="pesan" rows="3"></textarea>
+                  </div>
+                  <button type="submit" class="btn btn-primary">Kirim</button>
+                </form>
+              </div>
+            </div>
+        </div>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#16213E" fill-opacity="1" d="M0,160L40,154.7C80,149,160,139,240,154.7C320,171,400,213,480,197.3C560,181,640,107,720,96C800,85,880,139,960,176C1040,213,1120,235,1200,240C1280,245,1360,235,1400,229.3L1440,224L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
+      </section>
+      <!-- Akhir Contact -->
+
+      <!-- ======= Footer ======= -->
+  <div id="footer" class="text-center" style="background-color: #16213E;">
+    <div class="container">
+      <div class="socials-media text-center">
+
+        <table width="100%">
+          <tbody>
+            <tr>
+              <td width="44%">&nbsp;</td>
+              <td width="6%" style="text-align: center"><p><a href="https://api.whatsapp.com/send/?phone=6285724995633&text&type=phone_number&app_absent=0" target="new"><img src="img/580b57fcd9996e24bc43c543.png" width="30" height="30" alt=""/></a></p></td>
+              <td width="6%" style="text-align: center"><a href="https://www.instagram.com/richardo_oktavianus/" target="new"><img src="img/YfpFOL-logo-instagram-free-transparent.png" width="30" height="30" alt=""/></a></td>
+              <td width="6%" style="text-align: center"><a href="https://www.tiktok.com/@richardooktavian1" target="new"><img src="img/tik-tok-tiktok-logo-app-trend-1.png" width="30" height="30" alt=""/></a></td>
+              <td width="44%">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table>
+
+      </div>
+
+      <p style="color:#EEE3CB;">&copy; Copyrights Folio. All rights reserved.</p>
+
+      <div class="credits" style="color:#EEE3CB;">
+        <!--
+        All the links in the footer should remain intact.
+        You can delete the links only if you purchased the pro version.
+        Licensing information: https://bootstrapmade.com/license/
+        Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Folio
+      -->
+        Designed by <a href="https://bootstrapmade.com/" style="color: #EEE3CB;">BootstrapMade</a>
+      </div>
+
+    </div>
+  </div><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+  </body>
+</html>
